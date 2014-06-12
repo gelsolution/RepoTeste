@@ -1,0 +1,3 @@
+//funcao teste
+function() {
+}
